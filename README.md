@@ -1,1 +1,1 @@
-# https-geratime.bubbleapps.io-version-test
+https://geratime.bubbleapps.io/version-test
